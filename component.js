@@ -5,6 +5,7 @@
  * easing: 使用类型
  */
 // 对运动方法进行封装
+
 Math.animation = function (from, to, duration, easing, callback) {
   var isUndefined = function (obj) {
       return typeof obj === 'undefined';

@@ -2,6 +2,10 @@
 
 > 对曲线动画的兼容性处理
 
+## 预览
+
+<https://zengqingxiao.github.io/CA/>
+
 ## 使用方式
 
 ### 下载
